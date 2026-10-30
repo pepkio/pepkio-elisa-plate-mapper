@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Pepkio ELISA Plate Mapper Python client package."""
 
 from __future__ import annotations
